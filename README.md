@@ -25,7 +25,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/FalconX-hub/securepass-vault.git](https://github.com/FalconX-hub/securepass-vault.git)
+   git clone https://github.com/FalconX-hub/securepass-vault.git
    cd securepass-vault
 
 
