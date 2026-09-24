@@ -29,16 +29,14 @@
    cd securepass-vault
 
 
+
 Install the required dependencies:
 
     Bash
-        
         pip install cryptography
-
 
 
 Run the application:
 
     Bash
-        
         python app.py
